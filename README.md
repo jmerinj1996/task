@@ -1,6 +1,4 @@
-# Instructions
-
-Do not spend more than 1-2 hours on any task.
+# Steps taken to complete the Tasks
 
 ## Task 1
 
@@ -45,7 +43,7 @@ Do not spend more than 1-2 hours on any task.
      - librosa==0.8.0
      - requests==2.22.0
      - google-cloud-storage==1.36.0
-     
+
 ####  Add this script to your forked repo.
 
 When finished, email the URL of your forked repo to joe@hyfe.ai.

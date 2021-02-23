@@ -37,6 +37,15 @@ Do not spend more than 1-2 hours on any task.
   - copy paste https to try it yourself:
  https://us-central1-hyfe-cloud-function.cloudfunctions.net/hyfe-cough-detection?filename=sample-1613659553295.m4a
 
+ #### Libraries used:
+     - pandas==1.1.3
+     - scipy==1.5.2
+     - numpy==1.19.2
+     - tqdm==4.50.2
+     - librosa==0.8.0
+     - requests==2.22.0
+     - google-cloud-storage==1.36.0
+     
 ####  Add this script to your forked repo.
 
 When finished, email the URL of your forked repo to joe@hyfe.ai.
